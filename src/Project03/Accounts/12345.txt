@@ -1,0 +1,16 @@
+##############################
+FirstName: Liam
+LastName: Callahan
+Password: password
+PIN: 12345
+##############################
+AccountName: daboi
+AccountType: checkings
+AccountNumber: 1000001
+Balance: 2411.26
+##############################
+AccountName: stuff
+AccountType: checking
+AccountNumber: 1000002
+Balance: 449.47
+//////////////////////////////

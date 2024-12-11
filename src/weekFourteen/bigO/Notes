@@ -1,0 +1,16 @@
+
+What is Big 0?
+    -describes the performance or complexity of an algorithm
+    -Time Complexity
+        -worst case scenario (max amount of space an algorithm will take)
+        -the time it takes to run a function
+            -based on size of the input data
+
+    -Space Complexity
+        -the space an algorithm requires
+    -COMPLEXITY CHART
+        -0(log n) - Logarithmic time
+            -time is going to grow logarithmically with input size
+            -as data grows its going to level off
+        -O(1) - constant time
+            -doesn't change based off increasing input
