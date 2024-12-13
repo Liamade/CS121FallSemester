@@ -16,7 +16,6 @@ public class Menu {
     String reset = "\033[0m";
     String blue = "\033[34m";
     String grey = "\033[37m";
-    String magenta = "\033[35m";
     String black = "\033[30m";
     String green = "\033[32m";
     String red = "\033[31m";
@@ -255,8 +254,6 @@ public class Menu {
             }
         }
     }
-
-
 
 
 }

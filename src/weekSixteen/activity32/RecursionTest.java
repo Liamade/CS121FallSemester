@@ -1,4 +1,4 @@
-package weekFifteen.activity32;
+package weekSixteen.activity32;
 
 public class RecursionTest {
     public static void main(String[] args) {
