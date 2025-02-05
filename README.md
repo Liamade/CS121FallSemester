@@ -1,4 +1,4 @@
-# CS121FallSemester
+# CS121 - FallSemester - 2024
 ## Liam Callahan
 | Project Name | Description |
 |------------------|------------------|
